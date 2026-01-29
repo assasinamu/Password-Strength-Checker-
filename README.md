@@ -1,2 +1,2 @@
-# Password-Strength-Checker-
-Developed a Python-based password strength checker using rule-based validation and pattern detection to identify weak passwords.
+# Password Strength Checker
+A lightweight Python tool that checks password strength based on length, character diversity, common patterns, and dictionary-based weaknesses using SHA-256 hashing.
